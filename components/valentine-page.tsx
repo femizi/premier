@@ -25,7 +25,7 @@ const FloatingHeart = ({ delay = 0 }) => (
   </motion.div>
 )
 
-const ShakingEmoji = ({ children }) => (
+const ShakingEmoji: React.FC<React.PropsWithChildren> = ({ children }) => (
   <motion.span
     animate={{ rotate: [0, -10, 10, -10, 10, 0] }}
     transition={{ duration: 0.5, repeat: Number.POSITIVE_INFINITY, repeatDelay: 1.5 }}
