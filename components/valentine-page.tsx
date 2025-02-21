@@ -1,7 +1,7 @@
 "use client"
 import { motion, useAnimation } from "framer-motion"
 import { Heart } from "lucide-react"
-import { useState } from "react"
+import { ReactNode, useState } from "react"
 import { Button } from "@/components/ui/button"
 import { useRouter } from "next/navigation"
 
@@ -25,7 +25,7 @@ const FloatingHeart = ({ delay = 0 }) => (
   </motion.div>
 )
 
-const ShakingEmoji: React.FC<React.PropsWithChildren> = ({ children }) => (
+const ShakingEmoji = ({ children } : { children: ReactNode}) => (
   <motion.span
     animate={{ rotate: [0, -10, 10, -10, 10, 0] }}
     transition={{ duration: 0.5, repeat: Number.POSITIVE_INFINITY, repeatDelay: 1.5 }}
