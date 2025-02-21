@@ -48,13 +48,16 @@ export default function CelebrationPage() {
 
               <div className="relative z-10 space-y-6 font-dancing">
                 <p className="text-xl md:text-2xl text-rose-700 leading-relaxed">
-                  Life is full of twists and turns along the way, everyone gets to choose their own path in search of
-                  fulfillment.
+                Unlike every other person I chose to love you everyday 
+I chose to show you love everyday 
+
+
+
                 </p>
                 <p className="text-xl md:text-2xl text-rose-700 leading-relaxed">
-                  I am glad I chose you as my partner in this search and that alone gave me all the fulfillment I want,
-                  and I want you to also know that no matter the twists and turns I&apos;ll always be beside you and
-                  I&apos;ll always be that loyal and loving man.
+                All I want is to share everyday with you; the little things and the big things, the love and the laughter, the anger and the emotions
+
+
                 </p>
                 <motion.p
                   animate={{
@@ -82,7 +85,7 @@ export default function CelebrationPage() {
               <div className="grid gap-4">
                 <div>
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/0e9e39d1-bbe5-43da-baab-7035a76e2dd7-LO7bex2yGILVyTVGukFPiPqeyeZsSo.jpeg"
+                    src="https://g0e6rrwqbju8beeg.public.blob.vercel-storage.com/42225d37-7297-4b2e-9c66-5a63ffdd7599-bJLL0J5pJxxPprgat7QuPaTC0VP9cG.jpeg"
                     alt="Romantic dinner"
                     width={600}
                     height={800}
@@ -91,7 +94,7 @@ export default function CelebrationPage() {
                 </div>
                 <div>
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bc87579c-fc44-47a1-8dbb-d9dec1d65f68-PW7KlxkvCQRSkXlUzT4UVBJONwEyTp.jpeg"
+                    src="https://g0e6rrwqbju8beeg.public.blob.vercel-storage.com/5d2f2afc-978c-45c5-b2ce-5d90e86e8aae-IHW2ZhzkvISZERQJvHkOrw6uKFZ2JU.jpeg"
                     alt="Blue light portrait"
                     width={600}
                     height={800}
@@ -102,7 +105,7 @@ export default function CelebrationPage() {
               <div className="grid gap-4">
                 <div>
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/48b9cefd-86ea-499b-ab03-bc80923223d1-ykIHubLDXI8OxXx10MeVhi8ZB9r145.jpeg"
+                    src="https://g0e6rrwqbju8beeg.public.blob.vercel-storage.com/afad8361-ffbf-4499-8b17-8797901dae74-NJIBuqoYDId1h1XNhiAbyJIkpw4MJq.jpeg"
                     alt="Mirror selfie"
                     width={600}
                     height={800}
@@ -111,7 +114,7 @@ export default function CelebrationPage() {
                 </div>
                 <div>
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/a6502fc5-aa0c-44c3-994c-62538ab3c779-ew7IWKyygdsIO6xUFm5gX331iiQsB8.jpeg"
+                    src="https://g0e6rrwqbju8beeg.public.blob.vercel-storage.com/42225d37-7297-4b2e-9c66-5a63ffdd7599-bJLL0J5pJxxPprgat7QuPaTC0VP9cG.jpeg"
                     alt="Car selfie"
                     width={600}
                     height={800}
