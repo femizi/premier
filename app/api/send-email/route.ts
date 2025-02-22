@@ -15,7 +15,7 @@ export async function POST(request: Request) {
         <div style="font-family: sans-serif; max-width: 600px; margin: 0 auto;">
           <h1 style="color: #e11d48; text-align: center;">🎉 She Said YES! 🎉</h1>
           <p style="color: #374151; font-size: 16px; line-height: 1.5;">
-            Joy has accepted your Valentine's request! Time to celebrate this special moment.
+            Elizabeth has accepted your Valentine's request! Time to celebrate this special moment.
           </p>
           <p style="color: #374151; font-size: 16px; line-height: 1.5;">
             Your love story continues to unfold, and this is just another beautiful chapter.

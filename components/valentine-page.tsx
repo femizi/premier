@@ -61,7 +61,7 @@ export default function ValentinePage() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          to: "your.email@example.com", // Replace with your email
+          to: "obito.femi@gmail.com", // Replace with your email
         }),
       })
     } catch (error) {
@@ -91,7 +91,8 @@ export default function ValentinePage() {
       >
         <motion.div initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.2 }}>
           <h1 className="text-4xl md:text-6xl font-bold text-rose-500 mb-8 font-dancing">
-            Dear Joy Morenikeji
+            Dear Elizabeth,
+            
             <motion.span
               animate={{
                 rotate: [0, 10, -10, 0],
