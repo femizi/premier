@@ -4,7 +4,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Valentine's Day",
-  description: "A special message for Joy",
+  description: "A special message for Elizabeth",
 }
 
 export default function RootLayout({
